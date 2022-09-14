@@ -1,6 +1,15 @@
-### Hi there! I'm Ibraheem ✌🏽
+<h1 align='center' paddingBottom='10px'> Hi friends! I'm Ibraheem ✌🏽 </h1>
 
-📫 How to reach me: ...
+<p align='center'>
+  📫: <br/>
+  <br/>
+  <a href="https://www.linkedin.com/in/ibraheemazam/">
+    <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+  <a href="mailto:ibraheemazam@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
+</p> 
 
 <!--
 **ibraheemazam/ibraheemazam** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
